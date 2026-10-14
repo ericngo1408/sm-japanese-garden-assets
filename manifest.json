@@ -1,0 +1,38 @@
+{
+  "packId": "animals_preview",
+  "title": "Động vật (chỉ xem thử, chưa duyệt)",
+  "version": 1,
+  "reviewed": false,
+  "entries": [
+    {
+      "id": "cat",
+      "ja": "ねこ",
+      "vi": "Con mèo",
+      "group": "Động vật",
+      "subgroup": "Thú nuôi",
+      "kind": "word",
+      "emoji": "🐱",
+      "image": "assets/cat.png"
+    },
+    {
+      "id": "dog",
+      "ja": "いぬ",
+      "vi": "Con chó",
+      "group": "Động vật",
+      "subgroup": "Thú nuôi",
+      "kind": "word",
+      "emoji": "🐶",
+      "image": "assets/dog.png"
+    },
+    {
+      "id": "rabbit",
+      "ja": "うさぎ",
+      "vi": "Con thỏ",
+      "group": "Động vật",
+      "subgroup": "Thú nuôi",
+      "kind": "word",
+      "emoji": "🐰",
+      "image": "assets/rabbit.png"
+    }
+  ]
+}
