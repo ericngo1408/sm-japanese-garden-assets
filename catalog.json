@@ -1,0 +1,12 @@
+{
+  "packs": [
+    {
+      "packId": "animals_preview",
+      "title": "Động vật — kiểm tra tải gói (chưa duyệt)",
+      "summary": "3 hình mèo, chó, thỏ; chưa có âm thanh và không hiển thị như bài đã duyệt.",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/ericngo1408/sm-japanese-garden-assets/main/animals_preview.zip",
+      "sha256": "e92a15af2be2d9355c7a1f9085399da03742f2004986a23e9e7aae89207428ef"
+    }
+  ]
+}
