@@ -1,12 +1,12 @@
 {
   "packs": [
     {
-      "packId": "animals_preview",
-      "title": "Động vật — kiểm tra tải gói (chưa duyệt)",
-      "summary": "3 hình mèo, chó, thỏ; chưa có âm thanh và không hiển thị như bài đã duyệt.",
-      "version": 1,
-      "url": "https://raw.githubusercontent.com/ericngo1408/sm-japanese-garden-assets/main/animals_preview.zip",
-      "sha256": "e92a15af2be2d9355c7a1f9085399da03742f2004986a23e9e7aae89207428ef"
+      "packId": "smjg_full_visual_v03",
+      "title": "FULL v0.3: 20 chu de, 120 nhom (hinh + chu)",
+      "summary": "692 the va 692 hinh; offline sau khi tai. Chua co audio duyet.",
+      "version": 3,
+      "url": "https://raw.githubusercontent.com/ericngo1408/sm-japanese-garden-assets/main/SMJG_FULL_v03_VISUAL.zip",
+      "sha256": "f76bbc5c29a86748226c09d762bc081c432c76a19526bfe7914b801ae5a6aff4"
     }
   ]
 }
